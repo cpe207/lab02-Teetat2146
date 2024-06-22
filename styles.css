@@ -21,5 +21,8 @@ img {
     padding-left: 10px;
 }
 .space {
-    text-indent: 20px;
+    text-indent: 10px;
+}
+h1 {
+    text-align: center;
 }
