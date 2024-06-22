@@ -1,0 +1,25 @@
+img {
+    height: 300px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+.boxtext p {
+    display: inline-block;
+}
+.big {
+    font-size: 25px;
+}
+.boximg img{
+    display: inline-block;
+}
+.box {
+    border: 2px solid black;
+    border-right: auto;
+    margin-bottom: 5px;
+    margin-top: 5px;
+    padding-left: 10px;
+}
+.space {
+    text-indent: 20px;
+}
